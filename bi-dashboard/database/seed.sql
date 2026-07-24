@@ -1,0 +1,2 @@
+-- Seed data is handled via the import-data.js script
+-- Run: node scripts/import-data.js
